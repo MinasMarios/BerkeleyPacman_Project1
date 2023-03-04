@@ -10,4 +10,6 @@ The goal of this project is to implement various search algorithms to solve the 
 
 Each part of the project comes with a set of autograder tests to help you check if your implementation is correct.
 
+Only the two files that needed modification are uploaded.
+
 For more information visit https://inst.eecs.berkeley.edu/~cs188/sp19/project1.html
